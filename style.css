@@ -20,7 +20,7 @@
      cursor: pointer;
  }
  body{
-     background-image: url(banner-hide-happy-dog-puppy-winking-one-eye-smiling-colored-blue-backgorund-closed-eyes-201151108.jpg);
+     background-image: url('banner-hide-happy-dog-puppy-winking-one-eye-smiling-colored-blue-backgorund-closed-eyes-201151108.jpg');
      background-repeat: no-repeat;
      background-size: cover;
     color: rgb(0, 0, 0);
